@@ -1,5 +1,5 @@
 #!/bin/sh
-##setup command=wget http://github.com/andalasopen/key/blob/master/AddKey/installer.sh -O - | /bin/sh
+##setup command=wget https://github.com/andalasopen/key/blob/master/AddKey/installer.sh -O - | /bin/sh
 
 version=3.1
 description='NEW [Add option to enable/Disable check update]'
@@ -12,7 +12,7 @@ rm -rf /usr/lib/enigma2/python/Plugins/Extensions/Biscotto
 
 cd /tmp
 set -e
-wget "http://github.com/andalasopen/key/blob/master/AddKey-"$version".tar.gz"
+wget "https://github.com/andalasopen/key/blob/master/AddKey-"$version".tar.gz"
 
 tar -xzf AddKey-"$version".tar.gz -C /
 set +e
