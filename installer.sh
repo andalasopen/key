@@ -12,7 +12,7 @@ rm -rf /usr/lib/enigma2/python/Plugins/Extensions/Biscotto
 
 cd /tmp https://github.com/andalasopen/key/blob/master/AddKey-2.9.tar.gz
 set -e
-wget "https://.github.com/andalasopen/key/blob/master/AddKey-"$version".tar.gz"
+wget "https://github.com/andalasopen/key/blob/master/AddKey-"$version".tar.gz"
 
 tar -xzf AddKey-"$version".tar.gz -C /
 set +e
