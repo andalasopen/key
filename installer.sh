@@ -1,7 +1,7 @@
 #!/bin/sh
-##setup command=wget http://tunisia-dreambox.info/TSplugins/AddKey/installer.sh -O - | /bin/sh
+##setup command=wget http://github.com/andalasopen/key/blob/master/AddKey/installer.sh -O - | /bin/sh
 
-version=3.0
+version=3.1
 description='NEW [Add option to enable/Disable check update]'
 
 # remove old version
