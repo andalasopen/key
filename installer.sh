@@ -10,7 +10,7 @@ rm -rf /usr/lib/enigma2/python/Plugins/Extensions/Biscotto
 
 # Download and install plugin
 
-cd /tmp https://github.com/andalasopen/key/blob/master/AddKey-2.9.tar.gz
+cd /tmp
 set -e
 wget "https://github.com/andalasopen/key/blob/master/AddKey-"$version".tar.gz"
 
