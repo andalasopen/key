@@ -3,3 +3,5 @@
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 ,Championtv 1 Hd
 http://begaltvku.site/ventidos/master-6.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" status="blocked",Kompas TV (720p)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
