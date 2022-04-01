@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,Tvri sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,Championtv 1 Hd
+#EXTINF:-1 ,Championtv 1
 http://begaltvku.site/ventidos/master-6.m3u8
 #EXTINF:-1 ,TVRI Sumsel
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
