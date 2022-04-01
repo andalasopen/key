@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 ,Tvri sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 ,Championtv 1 Hd
+http://begaltvku.site/ventidos/master-6.m3u8
+#EXTINF:-1 ,Championtv 2 Hd
+http://begaltvku.site/ventidos/master-7.m3u8
+#EXTINF:-1 ,Astro arena
+http://15.235.142.241:8080/hometv/premium/8071
+#EXTINF:-1 ,Astro arena 2
+http://15.235.142.241:8080/hometv/premium/8072
+#EXTINF:-1 ,Astro sport
+http://203.154.243.89:21201/nakhon
+#EXTINF:-1 ,Astro sport 2
+http://203.154.243.89:21202/nakhon
+#EXTINF:-1 ,Astro sport 3
+http://203.154.243.89:21203/nakhon
+#EXTINF:-1 ,Astro sport 4
+http://iptv.tvfix.org/hls/starsports.m3u8
