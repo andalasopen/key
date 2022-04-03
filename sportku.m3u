@@ -27,5 +27,9 @@ http://61.19.242.134/feed/202105171329/chpptvhd/tracks-v1a1/mono.m3u8
 http://4digital.ddns.net:11225/ts/0
 #EXTINF:-1 ,BEIN 2 ASIA
 http://4digital.ddns.net:11222/ts/0
+#EXTINF:-1 ,FEED CH 1
+http://myott.tv/stream/MEITIIUJNS/130.m3u8
+#EXTINF:-1 ,FEED CH 2
+http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 ,PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
