@@ -1,19 +1,29 @@
 #EXTM3U
-#EXTINF:-1 ,Tvri sport
+#EXTINF:-1 ,TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,Championtv 1 Hd
+#EXTINF:-1 ,CHAMPIONTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
-#EXTINF:-1 ,Championtv 2 Hd
+#EXTINF:-1 ,CHAMPIONTV 2 HD
 http://begaltvku.site/ventidos/master-7.m3u8
-#EXTINF:-1 ,Astro arena
-http://15.235.142.241:8080/hometv/premium/8071
-#EXTINF:-1 ,Astro arena 2
-http://15.235.142.241:8080/hometv/premium/8072
-#EXTINF:-1 ,Astro sport
+#EXTINF:-1 ,ASTRO ARENA 1
+http://49.128.184.38:25461/siaran/testing/102
+#EXTINF:-1 ,ASTRO ARENA 2
+http://49.128.184.38:25461/siaran/testing/103
+#EXTINF:-1 ,ASTRO SPORT 1
 http://203.154.243.89:21201/nakhon
-#EXTINF:-1 ,Astro sport 2
+#EXTINF:-1 ,ASTRO SPORT 2
 http://203.154.243.89:21202/nakhon
-#EXTINF:-1 ,Astro sport 3
+#EXTINF:-1 ,ASTRO SPORT 3
 http://203.154.243.89:21203/nakhon
-#EXTINF:-1 ,Astro sport 4
+#EXTINF:-1 ,ASTRO SPORT 4
 http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 ,STAR SPORTS
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 ,PPTV HD
+http://61.19.242.134/feed/202105171329/chpptvhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BEIN 1 ASIA
+http://4digital.ddns.net:11225/ts/0
+#EXTINF:-1 ,BEIN 2 ASIA
+http://4digital.ddns.net:11222/ts/0
+#EXTINF:-1 ,PTV SPORTS
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
