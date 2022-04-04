@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" ,BERITA SATU
 http://begaltvku.site/ventidos/master-21.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV1.id" ,CHAMPIONTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
