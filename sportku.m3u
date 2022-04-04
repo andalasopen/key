@@ -3,13 +3,13 @@
 http://begaltvku.site/ventidos/master-21.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="TV NASIONAL" ,TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="ChampionsTV1.id" ,CHAMPIONTV 1 HD
+#EXTINF:2 group-title="SPORTS" tvg-id="ChampionsTV1.id" ,CHAMPIONTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml",CHAMPIONTV 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-id="ChampionsTV2.id" tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml",CHAMPIONTV 2 HD
 http://begaltvku.site/ventidos/master-7.m3u8
-#EXTINF:-1 tvg-id="ChampionsTV3.id",CHAMPIONTV 3 HD
+#EXTINF:-1 group-title="SPORTS" tvg-id="ChampionsTV3.id",CHAMPIONTV 3 HD
 http://begaltvku.site/ventidos/master-8.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" ,LFCTV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" ,LFCTV
 http://begaltvku.site/ventidos/master-3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport.my" ,ASTRO SPORT 1
 http://203.154.243.89:21201/nakhon
@@ -29,7 +29,7 @@ http://4digital.ddns.net:11225/ts/0
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" ,FEED CH 1
 http://myott.tv/stream/MEITIIUJNS/130.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" ,CCTV5+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" ,CCTV5+
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" ,PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
