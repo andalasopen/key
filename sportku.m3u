@@ -23,9 +23,9 @@ http://203.154.243.89:21202/nakhon
 http://203.154.243.89:21203/nakhon
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport4.my" tvg-name="AstroSuperSport4" parent-code="'tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" ,ASTRO SPORT 4
 http://203.154.243.89:21204/nakhon
-#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png?20150203230501",STAR SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png?20150203230501",STAR SPORTS
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 group-title="SPORTS"  tvg-id="PPTVHD36.th" ,PPTV HD 36
+#EXTINF:-1 group-title="SPORTS" tvg-id="PPTVHD36.th" ,PPTV HD 36
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
 #EXTINF:-1 group-title="SPORTS"  tvg-logo="https://www.seekpng.com/png/full/207-2070268_livvo-bein-sports-gradiant-1hd-bein-sports-logo.png" ,BEIN 1 ASIA
 http://4digital.ddns.net:11225/ts/0
@@ -33,7 +33,7 @@ http://4digital.ddns.net:11225/ts/0
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" ,FEED CH 1
 http://myott.tv/stream/MEITIIUJNS/130.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" ,CCTV5+
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" ,CCTV5+
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" ,PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
