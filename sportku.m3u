@@ -5,7 +5,7 @@ http://begaltvku.site/ventidos/master-21.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV1.id" ,CHAMPIONTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
-#EXTINF:-1 tvg-id="ChampionsTV2.id",CHAMPIONTV 2 HD
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml",CHAMPIONTV 2 HD
 http://begaltvku.site/ventidos/master-7.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV3.id",CHAMPIONTV 3 HD
 http://begaltvku.site/ventidos/master-8.m3u8
