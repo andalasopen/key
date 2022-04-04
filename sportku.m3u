@@ -31,5 +31,5 @@ http://4digital.ddns.net:11222/ts/0
 http://myott.tv/stream/MEITIIUJNS/130.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" ,CCTV5+
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png?20150203230501" ,PTV SPORTS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" ,PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
