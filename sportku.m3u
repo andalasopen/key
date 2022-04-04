@@ -13,7 +13,7 @@ http://begaltvku.site/ventidos/master-8.m3u8
 http://begaltvku.site/ventidos/master-3.m3u8
 #EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" ,ASTRO SPORT 1
 http://203.154.243.89:21201/nakhon
-#EXTINF:-1 logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" ,ASTRO SPORT 2
+#EXTINF:-1 logo="image/138_144.png" ,ASTRO SPORT 2
 http://203.154.243.89:21202/nakhon
 #EXTINF:-1 tvg-my="AstroSuperSport3.my" ,ASTRO SPORT 3
 http://203.154.243.89:21203/nakhon
