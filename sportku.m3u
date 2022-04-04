@@ -21,7 +21,7 @@ http://203.154.243.89:21203/nakhon
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 ,STAR SPORTS
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 ,PPTV HD
+#EXTINF:-1 tvg-th="PPTVHD36.th" ,PPTV HD
 http://61.19.242.134/feed/202105171329/chpptvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BEIN 1 ASIA
 http://4digital.ddns.net:11225/ts/0
