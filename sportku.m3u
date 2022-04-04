@@ -19,9 +19,9 @@ http://begaltvku.site/ventidos/master-3.m3u8
 http://203.154.243.89:21201/nakhon
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport3.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png"  ,ASTRO SPORT 2
 http://203.154.243.89:21202/nakhon
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml",ASTRO SPORT 3
+#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport3.my" tvg-name="AstroSuperSport3" parent-code="183" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SPORT 3
 http://203.154.243.89:21203/nakhon
-#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" ,ASTRO SPORT 4
+#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport4.my" tvg-name="AstroSuperSport4" parent-code="'tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" ,ASTRO SPORT 4
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png?20150203230501",STAR SPORTS
 http://iptv.tvfix.org/hls/starsports.m3u8
