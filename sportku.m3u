@@ -15,13 +15,13 @@ http://begaltvku.site/ventidos/master-3.m3u8
 http://203.154.243.89:21201/nakhon
 #EXTINF:-1 logo="image/138_144.png" ,ASTRO SPORT 2
 http://203.154.243.89:21202/nakhon
-#EXTINF:-1 tvg-my="AstroSuperSport3.my" ,ASTRO SPORT 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" ,ASTRO SPORT 3
 http://203.154.243.89:21203/nakhon
-#EXTINF:-1 tvg-my="AstroSuperSport4.my" ,ASTRO SPORT 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" ,ASTRO SPORT 4
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 ,STAR SPORTS
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 tvg-th="PPTVHD36.th" ,PPTV HD
+#EXTINF:-1 tvg-id="PPTVHD36.th" ,PPTV HD
 http://61.19.242.134/feed/202105171329/chpptvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BEIN 1 ASIA
 http://4digital.ddns.net:11225/ts/0
