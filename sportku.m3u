@@ -7,7 +7,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="  ,TVRI 3
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:2 group-title="SPORTS" tvg-id="ChampionsTV1.id" ,CHAMPIONTV 1 HD
+#EXTINF:2 tvg-id="ChampionsTV1.id" group-title="SPORTS" tvg-id="ChampionsTV1.id" ,CHAMPIONTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="ChampionsTV2.id" tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml",CHAMPIONTV 2 HD
 http://begaltvku.site/ventidos/master-7.m3u8
