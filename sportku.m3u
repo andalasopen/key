@@ -3,11 +3,11 @@
 http://begaltvku.site/ventidos/master-21.m3u8
 #EXTINF:-1 tvg-id="TVRI4.id",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="championstv1.id" ,CHAMPIONTV 1 HD
+#EXTINF:-1 tvg-id="ChampionsTV1.id" ,CHAMPIONTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
-#EXTINF:-1 tvg-id="championstv2.id",CHAMPIONTV 2 HD
+#EXTINF:-1 tvg-id="ChampionsTV2.id",CHAMPIONTV 2 HD
 http://begaltvku.site/ventidos/master-7.m3u8
-#EXTINF:-1 tvg-id="championstv3.id",CHAMPIONTV 3 HD
+#EXTINF:-1 tvg-id="ChampionsTV3.id",CHAMPIONTV 3 HD
 http://begaltvku.site/ventidos/master-8.m3u8
 #EXTINF:-1 ,LFCTV
 http://begaltvku.site/ventidos/master-3.m3u8
