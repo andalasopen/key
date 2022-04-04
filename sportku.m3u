@@ -25,7 +25,7 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 http://61.19.242.134/feed/202105171329/chpptvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/207-2070268_livvo-bein-sports-gradiant-1hd-bein-sports-logo.png" ,BEIN 1 ASIA
 http://4digital.ddns.net:11225/ts/0
-#EXTINF:-1 svg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest/scale-to-width-down/220?cb=20200107203903" ,BEIN 2 ASIA
+#EXTINF:-1 svg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6594.1491352241.png" ,BEIN 2 ASIA
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 ,FEED CH 1
 http://myott.tv/stream/MEITIIUJNS/130.m3u8
