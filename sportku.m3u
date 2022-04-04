@@ -27,6 +27,7 @@ http://203.154.243.89:21204/nakhon
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" ,PPTV HD 36
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
+http://61.19.242.134/feed/202105171329/chpptvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS"  tvg-logo="https://www.seekpng.com/png/full/207-2070268_livvo-bein-sports-gradiant-1hd-bein-sports-logo.png" ,BEIN 1 ASIA
 http://4digital.ddns.net:11225/ts/0
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" ,BEIN 2 ASIA
