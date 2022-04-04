@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,ID
+channel/id.m3u
 #EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDyacjPBK2YWfasyhwxERKALAqu0mAcjYsERx5qDpXbF8dYklYNbAdRBO&s=10" ,BERITA SATU
 http://begaltvku.site/ventidos/master-21.m3u8
 #EXTINF:-1 tvg-id="TVRISportHD.id",TVRI SPORT
