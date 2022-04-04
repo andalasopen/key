@@ -23,7 +23,7 @@ http://203.154.243.89:21204/nakhon
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" ,PPTV HD
 http://61.19.242.134/feed/202105171329/chpptvhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BEIN 1 ASIA
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" ,BEIN 1 ASIA
 http://4digital.ddns.net:11225/ts/0
 #EXTINF:-1 ,BEIN 2 ASIA
 http://4digital.ddns.net:11222/ts/0
