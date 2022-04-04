@@ -1,0 +1,45 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vid.id/imuI2N8i03RELzozF2v00YYAkdc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="TV NASIONAL", BERITA SATU
+http://begaltvku.site/ventidos/master-21.m3u8
+#EXTINF: -1 group-title="TV NASIONAL", TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF: -1 group-title="TV NASIONAL", TVRI 3
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="SPORTS", TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF: 2 tvg-id="ChampionsTV1.id" group-title="SPORTS", CHAMPIONTV 1 HD
+http://begaltvku.site/ventidos/master-6.m3u8
+#EXTINF: -1 tvg-id="ChampionsTV2.id" group-title="SPORTS", CHAMPIONTV 2 HD
+http://begaltvku.site/ventidos/master-7.m3u8
+#EXTINF: -1 tvg-id="ChampionsTV3.id" group-title="SPORTS", CHAMPIONTV 3 HD
+http://begaltvku.site/ventidos/master-8.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" group-title="SPORTS", LFCTV
+http://begaltvku.site/ventidos/master-3.m3u8
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS", ASTRO SPORT 1
+http://203.154.243.89:21201/nakhon
+#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-name="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS", ASTRO SPORT 2
+http://203.154.243.89:21202/nakhon
+#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-name="AstroSuperSport3.my" tvg-chno="813" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="SPORTS", ASTRO SPORT 3
+http://203.154.243.89:21203/nakhon
+#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS", ASTRO SPORT 4
+http://203.154.243.89:21204/nakhon
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png?20150203230501" group-title="SPORTS", STAR SPORTS
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF: -1 tvg-id="PPTVHD36.th" group-title="SPORTS", PPTV HD
+http://61.19.242.134/feed/202105171329/chpptvhd/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/full/207-2070268_livvo-bein-sports-gradiant-1hd-bein-sports-logo.png" group-title="SPORTS", BEIN 1 ASIA
+http://4digital.ddns.net:11225/ts/0
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="SPORTS", BEIN 2 ASIA
+http://4digital.ddns.net:11222/ts/0
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" group-title="SPORTS", FEED CH 1
+http://myott.tv/stream/MEITIIUJNS/130.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS", CCTV5+
+http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" group-title="SPORTS", PTV SPORTS
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS", BEINsports 1
+http://185.191.127.207:8080/live/nour2020/123456/15560.m3u8?token=QhZdWUdRRwsQXwgFVVIHUQwHDlJRUARQVFdUVABfCAcIDQBZBQxcVwYbFENCERcDVQxpXwJEXAAEBgACT0RERlxGalFQG18TBQoOWAVHSURACFtTRFxWHRNDX1ZBXBMHAQMNGhgbAElGXEoPUAk6AlEXX1UDRFxfRF9aHkEJX2pdUVhZWl1HCxAJGk0TDBYWFltYQwoKShNTWkJAAhJUFwMWBAEMCUcdEFpXFF8RFx8WWxR/IkRKE1RLQlcNFVhaVxYPGlkKEAkQFRoIQjoXA0cVRFMHCwNDEwkUAkFKE1hYTGpbW1cLVFFNUQ5fFkdcFlAUGkQLCV9YR1lAPBZYURsOFw0AClMDEEQ=
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS", BEINsports 2
+http://185.191.127.248:8080/live/nour2020/123456/15559.m3u8?token=QhZdWUdRRwsQXFlSA10ABQxYDgJeX1FQVFYAVgICU1ZaVgYIDA0BBFAbFENCERcDVQxpXwJEXAAEBgMLT0RERlxGalFQG18TBQoOWAVHSURACFtTRFxWHRNDX1ZBXBMEAAQECBYVR1RKTV0TXwQJOVAEQF8FA0QLX0ZaXk9EXltmUFBVVVcBEwgbCEMdRwwVREMMWBMKCh0TUV9GEQdFUBsOFwkBCVQTHhtbDkQLERRNQwwULyJEHRNWTkYGCEJcVloXAhZUVkQKGxRDWBY6FFESQkQDBwtUQxEMEFNEHRdUVU1nV1YLX1daTAheCxZEDkMHFEpEC15fWkJdETlBXF0WDxoHC1AIAhtF
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BEINsports 3
+http://185.191.127.111:8080/live/nour2020/123456/15558.m3u8?token=QhZdWUdRRwsQW1xQUgRTVQZSBlNUBVQEAVFVC1YHBVQPUVEJV1oAUwYbFENCERcDVQxpXwJEXAAEBgMKT0RERlxGalFQG18TBQoOWAVHSURACFtTRFxWHRNDX1ZBXBMGAQ0FGhgbAElGXEoPUAk6AlEXX1UDRFxfRF9aHkEJX2pdUVhZWl1HCxAJGk0TDBYWFltYQwoKShNTWkJAAhJUFwMWBAwNDEcdEFpXFF8RFx8WWxR/IkRKE1RLQlcNFVhaVxYPGlkKEAkQFRoIQjoXA0cVRFMHCwNDEwkUAkFKE1hYTGpbW1cLVFFNUQ5fFkdcFlAUGkQLCV9YR1lAPBZYURsOFwkADF0GEEQ=
