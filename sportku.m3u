@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
 #EXTINF: -1 tvg-id="BeritaSatu.id" tvg-logo="https://thumbor.prod.vid.id/imuI2N8i03RELzozF2v00YYAkdc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="TV NASIONAL", BERITA SATU
 http://begaltvku.site/ventidos/master-21.m3u8
 #EXTINF: -1 tvg-id="TVRISportHD.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="TV NASIONAL", TVRI NASIONAL
