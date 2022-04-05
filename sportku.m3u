@@ -45,6 +45,8 @@ http://185.191.127.207:8080/live/nour2020/123456/15559.m3u8?token=QhZdWUdRRwsQAA
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BEINsports 3
 http://185.191.127.111:8080/live/nour2020/123456/15558.m3u8?token=QhZdWUdRRwsQW1xQUgRTVQZSBlNUBVQEAVFVC1YHBVQPUVEJV1oAUwYbFENCERcDVQxpXwJEXAAEBgMKT0RERlxGalFQG18TBQoOWAVHSURACFtTRFxWHRNDX1ZBXBMGAQ0FGhgbAElGXEoPUAk6AlEXX1UDRFxfRF9aHkEJX2pdUVhZWl1HCxAJGk0TDBYWFltYQwoKShNTWkJAAhJUFwMWBAwNDEcdEFpXFF8RFx8WWxR/IkRKE1RLQlcNFVhaVxYPGlkKEAkQFRoIQjoXA0cVRFMHCwNDEwkUAkFKE1hYTGpbW1cLVFFNUQ5fFkdcFlAUGkQLCV9YR1lAPBZYURsOFwkADF0GEEQ=
 #EXTINF: -1 group-title="SPORT TV", BEINSPORTS PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/index.m3u8
 #EXTINF: -1 group-title="SPORT TV", BEINSPORTS PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/index.m3u8
