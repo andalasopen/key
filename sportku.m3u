@@ -46,7 +46,7 @@ http://myott.tv/stream/MEITIIUJNS/130.m3u8
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" group-title="SPORTS", PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.imgur.com/S1DNbRP?r" group-title="BEIN",BEIN AFC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1DNbRP_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN",BEIN AFC HD
 http://51.195.234.238:8080/ar-s/bein-afc-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n4uVBdH_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN", BEIN AFC 1
 http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
@@ -58,9 +58,17 @@ http://141.95.206.174:8080/ar-s/bein-afc-3/index.m3u8
 http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/index.m3u8
 #EXTINF:-1 tvg-id="BeINSportsPremium2.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 2
 http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,SSC4
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ssc-95x31.gif" group-title="SPORTS" ,SSC1
+http://localchannels.zinamedia.net/ar-s/SSC1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ssc-95x31.gif" group-title="SPORTS" ,SSC2
+http://localchannels.zinamedia.net/ar-s/SSC2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ssc-95x31.gif" group-title="SPORTS" ,SSC3
+http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ssc-95x31.gif" group-title="SPORTS" ,SSC4
 http://localchannels.zinamedia.net/ar-s/SSC4/index.m3u8
-#EXTINF:-1 ,SSC7
-http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
-#EXTINF:-1 ,SSC5
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ssc-95x31.gif" group-title="SPORTS" ,SSC5
 http://localchannels.zinamedia.net/ar-s/SSC5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ssc-95x31.gif" group-title="SPORTS" ,SSC6
+http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/sa/ssc-95x31.gif" group-title="SPORTS" ,SSC7
+http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
