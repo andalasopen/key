@@ -1,18 +1,26 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://thumbor.prod.vid.id/imuI2N8i03RELzozF2v00YYAkdc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="TV NASIONAL", BERITA SATU
 http://begaltvku.site/ventidos/master-21.m3u8
+
 #EXTINF:-1 tvg-id="TVRISportHD.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="TV NASIONAL", TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png" group-title="TV NASIONAL", TVRI WORLD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS", CHAMPIONTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
+
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS", CHAMPIONTV 2 HD
 http://begaltvku.site/ventidos/master-7.m3u8
+
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORTS", CHAMPIONTV 3 HD
 http://begaltvku.site/ventidos/master-8.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" group-title="SPORTS", LFCTV
 http://begaltvku.site/ventidos/master-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS", ASTRO SPORT 1
@@ -38,13 +46,13 @@ http://myott.tv/stream/MEITIIUJNS/130.m3u8
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" group-title="SPORTS", PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS", BEIN AFC 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS", BEIN AFC 1
 http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORT TV", BEIN AFC 2
 http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BEIN AFC 3
 http://141.95.206.174:8080/ar-s/bein-afc-3/index.m3u8
-#EXTINF:-1 tvg-id="BeINSportsPremium1.qa" group-title="SPORT TV" , BEINSPORTS PREMIUM 1
+#EXTINF:-1 tvg-id="BeINSportsPremium1.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORT TV" , BEINSPORTS PREMIUM 1
 http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/index.m3u8
-#EXTINF:-1 tvg-id="BeINSportsPremium2.qa" group-title="SPORT TV" , BEINSPORTS PREMIUM 2
+#EXTINF:-1 tvg-id="BeINSportsPremium2.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORT TV" , BEINSPORTS PREMIUM 2
 http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/index.m3u8
