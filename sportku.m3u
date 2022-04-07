@@ -46,13 +46,13 @@ http://myott.tv/stream/MEITIIUJNS/130.m3u8
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" group-title="SPORTS", PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS", BEIN AFC 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n4uVBdH_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN", BEIN AFC 1
 http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORT TV", BEIN AFC 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jpmsHuA_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN", BEIN AFC 2
 http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BEIN AFC 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FoImnfJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN", BEIN AFC 3
 http://141.95.206.174:8080/ar-s/bein-afc-3/index.m3u8
-#EXTINF:-1 tvg-id="BeINSportsPremium1.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORT TV" , BEINSPORTS PREMIUM 1
+#EXTINF:-1 tvg-id="BeINSportsPremium1.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 1
 http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/index.m3u8
-#EXTINF:-1 tvg-id="BeINSportsPremium2.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORT TV" , BEINSPORTS PREMIUM 2
+#EXTINF:-1 tvg-id="BeINSportsPremium2.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 2
 http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/index.m3u8
