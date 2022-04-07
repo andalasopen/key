@@ -36,9 +36,9 @@ http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="SPORTS" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36", PPTV HD 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/207-2070268_livvo-bein-sports-gradiant-1hd-bein-sports-logo.png" group-title="SPORTS", BEIN 1 ASIA
-http://4digital.ddns.net:11227/ts/0
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="SPORTS", BEIN 2 ASIA
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/207-2070268_livvo-bein-sports-gradiant-1hd-bein-sports-logo.png" group-title="BEIN", BEIN 1 ASIA
+http://4digital.ddns.net:11225/ts/0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="BEIN", BEIN 2 ASIA
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" group-title="SPORTS", FEED CH 1
 http://myott.tv/stream/MEITIIUJNS/130.m3u8
@@ -46,6 +46,8 @@ http://myott.tv/stream/MEITIIUJNS/130.m3u8
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" group-title="SPORTS", PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.imgur.com/S1DNbRP?r" group-title="BEIN",BEIN AFC HD
+http://51.195.234.238:8080/ar-s/bein-afc-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n4uVBdH_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN", BEIN AFC 1
 http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jpmsHuA_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN", BEIN AFC 2
@@ -56,3 +58,9 @@ http://141.95.206.174:8080/ar-s/bein-afc-3/index.m3u8
 http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/index.m3u8
 #EXTINF:-1 tvg-id="BeINSportsPremium2.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 2
 http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,SSC4
+http://localchannels.zinamedia.net/ar-s/SSC4/index.m3u8
+#EXTINF:-1 ,SSC7
+http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
+#EXTINF:-1 ,SSC5
+http://localchannels.zinamedia.net/ar-s/SSC5/index.m3u8
