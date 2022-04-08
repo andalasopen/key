@@ -12,13 +12,13 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS", CHAMPIONTV 1 HD
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS", CHAMPIONSTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
 
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS", CHAMPIONTV 2 HD
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS", CHAMPIONSTV 2 HD
 http://begaltvku.site/ventidos/master-7.m3u8
 
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORTS", CHAMPIONTV 3 HD
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORTS", CHAMPIONSTV 3 HD
 http://begaltvku.site/ventidos/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" group-title="SPORTS", LFCTV
