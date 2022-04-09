@@ -78,9 +78,13 @@ http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FoImnfJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN", BEIN AFC 3
 http://141.95.206.174:8080/ar-s/bein-afc-3/index.m3u8
 #EXTINF:-1 tvg-id="BeINSportsPremium1.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 1
-http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/index.m3u8
+http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/279
 #EXTINF:-1 tvg-id="BeINSportsPremium2.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 2
-http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/tracks-v1a1/index.m3u8
+http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/280
+EXTINF:-1 tvg-id="BeINSportsPremium3.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 3
+http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/281
+EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , TEST CH 
+http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/282
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein1.webp" group-title="BEIN" ,BEIN SPORTS 1FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein2.png" group-title="BEIN" ,BEIN SPORTS 2FR
