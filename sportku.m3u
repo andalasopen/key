@@ -81,7 +81,7 @@ http://141.95.206.174:8080/ar-s/bein-afc-3/index.m3u8
 http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/279
 #EXTINF:-1 tvg-id="BeINSportsPremium2.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 2
 http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/280
-EXTINF:-1 tvg-id="BeINSportsPremium3.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 3
+EXTINF:-1 tvg-id="BeINSportsPremium3.qa"  group-title="BEIN" , BEINSPORTS PREMIUM 3
 http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/281
 EXTINF:-1 tvg-id="" tvg-logo="" group-title="BEIN" , TEST CH 
 http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/282
