@@ -1,21 +1,32 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/sa/artonline.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://thumbor.prod.vid.id/imuI2N8i03RELzozF2v00YYAkdc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="TV NASIONAL", BERITA SATU
-http://begaltvku.site/ventidos/master-21.m3u8
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/antv.webp" ,ANTV
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
+http://begaltvku.site/ventidos/master.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/antv.webp" group-title="TV INDONESIA" ,ANTV
 http://begaltvku.site/ventidos/master-12.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/sctv.webp" group-title="TV INDONESIA" ,SCTV
+http://begaltvku.site/ventidos/master-24.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/transtv.webp" group-title="TV INDONESIA" ,TRANSTV
+http://begaltvku.site/ventidos/master-32.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/trans-7.webp" group-title="TV INDONESIA" ,TRANS 7
+http://begaltvku.site/ventidos/master-33.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/rtv.webp" group-title="TV INDONESIA" ,RTV
+http://begaltvku.site/ventidos/master-20.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/ochannel.webp" ,O CHANNEL 
 http://begaltvku.site/ventidos/master-18.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/mentarihd.webp",MENTARI HD
 http://begaltvku.site/ventidos/master-22.m3u8
-#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="TV NASIONAL", TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="TV INDONESIA", TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png" group-title="TV NASIONAL", TVRI WORLD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-world-id.png" group-title="TV INDONESIA", TVRI WORLD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="SPORTS", TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://thumbor.prod.vid.id/imuI2N8i03RELzozF2v00YYAkdc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="TV INDONESIA", BERITA SATU
+http://begaltvku.site/ventidos/master-21.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS", CHAMPIONSTV 1 HD
 http://begaltvku.site/ventidos/master-6.m3u8
@@ -26,7 +37,7 @@ http://begaltvku.site/ventidos/master-7.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORTS", CHAMPIONSTV 3 HD
 http://begaltvku.site/ventidos/master-8.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN3eDnjQn192bQZP0ourpfWjm_zKm2DeI05Q&usqp=CAU" group-title="SPORTS", LFCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/transtv.webp" group-title="SPORTS", LFCTV
 http://begaltvku.site/ventidos/master-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS", ASTRO SPORT 1
 http://203.154.243.89:2120/nakhon
