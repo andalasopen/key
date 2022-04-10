@@ -4,12 +4,11 @@
 http://begaltvku.site/ventidos/master.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/antv.webp" group-title="TV INDONESIA" ,ANTV
 http://begaltvku.site/ventidos/master-12.m3u8
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/sctv.webp" group-title="TV INDONESIA" ,SCTV
-http://begaltvku.site/ventidos/master-24.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/transtv.webp" group-title="TV INDONESIA" ,TRANSTV
 http://begaltvku.site/ventidos/master-32.m3u8
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/trans-7.webp" group-title="TV INDONESIA" ,TRANS 7
-http://begaltvku.site/ventidos/master-33.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/trans-7.webp" group-title="TV INDONESIA" ,TRANS 7 HD
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GziUGuM5CRW6QMz38cyKUos)/dm/3/x6p1gw7/d/live-3.m3u8
+
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/rtv.webp" group-title="TV INDONESIA" ,RTV
 http://begaltvku.site/ventidos/master-20.m3u8
 
@@ -49,8 +48,6 @@ http://203.154.243.89:21202/nakhon
 http://203.154.243.89:21203/nakhon
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" tvg-name="AstroSuperSport4" group-title="SPORTS", ASTRO SPORT 4
 http://203.154.243.89:21204/nakhon
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png?20150203230501" group-title="SPORTS"  , STAR SPORTS
-http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="SPORTS" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36", PPTV HD 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
