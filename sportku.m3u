@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/sa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/sa/artonline.tv.epg.xml"
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
 http://begaltvku.site/ventidos/master.m3u8
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/antv.webp" group-title="TV INDONESIA" ,ANTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/antv.webp" group-title="TV INDONESIA" ,ANTV
 http://begaltvku.site/ventidos/master-12.m3u8
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/transtv.webp" group-title="TV INDONESIA" ,TRANSTV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/transtv.webp" group-title="TV INDONESIA" ,TRANSTV
 http://begaltvku.site/ventidos/master-32.m3u8
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/trans-7.webp" group-title="TV INDONESIA" ,TRANS 7 HD
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/trans-7.webp" group-title="TV INDONESIA" ,TRANS 7 HD
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GziUGuM5CRW6QMz38cyKUos)/dm/3/x6p1gw7/d/live-3.m3u8
 
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/rtv.webp" group-title="TV INDONESIA" ,RTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/rtv.webp" group-title="TV INDONESIA" ,RTV
 http://begaltvku.site/ventidos/master-20.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/ochannel.webp" group-title="TV INDONESIA" ,O CHANNEL 
