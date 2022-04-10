@@ -51,9 +51,6 @@ http://203.154.243.89:21203/nakhon
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png?20150203230501" group-title="SPORTS"  , STAR SPORTS
 http://iptv.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcot_th_hd.png" group-title="AFF futsal" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",MCOTHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
-http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="SPORTS" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36", PPTV HD 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
@@ -77,14 +74,6 @@ http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
 http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FoImnfJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN", BEIN AFC 3
 http://141.95.206.174:8080/ar-s/bein-afc-3/index.m3u8
-#EXTINF:-1 tvg-id="BeINSportsPremium1.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 1
-http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/279
-#EXTINF:-1 tvg-id="BeINSportsPremium2.qa" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="BEIN" , BEINSPORTS PREMIUM 2
-http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/280
-EXTINF:-1 group-title="BEIN" , BEINSPORTS PREMIUM 3
-http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/281
-EXTINF:-1 group-title="BEIN" , TEST CH 
-http://20.110.72.175:25461/ALOMDA-TV/ALOMDA-TV/282
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein1.webp" group-title="BEIN" ,BEIN SPORTS 1FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein2.png" group-title="BEIN" ,BEIN SPORTS 2FR
