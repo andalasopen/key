@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
 http://begaltvku.site/ventidos/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/sctv.webp group-title="TV INDONESIA" ,SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1649726163~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=3936262e6a351d4f3717b371fcd718611c592d4b6254bf13934abd841afddd72/vp9/204_stream.mpd
 #EXTINF:-1 tvg-id="ANTV.id tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/antv.webp" group-title="TV INDONESIA" ,ANTV
 http://begaltvku.site/ventidos/master-12.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/transtv.webp" group-title="TV INDONESIA" ,TRANSTV
