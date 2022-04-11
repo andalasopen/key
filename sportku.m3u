@@ -99,8 +99,6 @@ http://185.184.233.180:5000/udp/225.1.2.156:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/boey.png" group-title="SPORTS",Матч! Боец
 http://185.184.233.180:5000/udp/225.1.2.157:1234
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/viasatnature.png" group-title="HISTORY",Viasat Nature
-http://persik.by/stream/7504/377885/10279.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/viasathistory.png" group-title="HISTORY",Viasat History
 https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/history.png" group-title="HISTORY",History HD
