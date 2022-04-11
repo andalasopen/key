@@ -108,8 +108,8 @@ https://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/history2.png" group-title="HISTORY",HISTORY 2 HD
 https://sc.id-tv.kz/H2HD_36_37.m3u8
 
-#EXTINF:-1 group-title="TV KIDS" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/Niki-Junior-Logo.png" ,NIKI JUNIOR
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/Niki-Junior-logo.png" group-title="TV KIDS" ,NIKI JUNIOR
 http://iptv.prosto.tv:7000/ch72/video.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="TV KIDS" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/disney.png" ,DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/disnep.png" group-title="TV KIDS" ,DISNEY CHANNEL
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-avc1_530000=10006.m3u8
