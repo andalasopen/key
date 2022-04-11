@@ -38,7 +38,7 @@ http://begaltvku.site/ventidos/master-7.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORTS", CHAMPIONSTV 3 HD
 http://begaltvku.site/ventidos/master-8.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/lftv.webp" group-title="SPORTS", LFCTV
+#EXTINF:-1 tvg-id="LFCTV.uk"  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/lftv.webp" group-title="SPORTS", LFCTV
 http://begaltvku.site/ventidos/master-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS", ASTRO SPORT 1
 http://203.154.243.89:2120/nakhon
