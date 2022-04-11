@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
 http://begaltvku.site/ventidos/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/sctv.webp" group-title="TV INDONESIA" ,SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1649726960~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=63f831df0685666fd1159a645e2d653f88668aea3fbfeff529ca75aaa6943ee7/vp9/204/primary/480p/v-480p-1649299830-412992607000.webm
+https://etslive-2-vidio-com.akamaized.net/exp=1649726163~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=3936262e6a351d4f3717b371fcd718611c592d4b6254bf13934abd841afddd72/vp9/204_stream.mpd
 #EXTINF:-1 tvg-id="ANTV.id tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/antv.webp" group-title="TV INDONESIA" ,ANTV
 http://begaltvku.site/ventidos/master-12.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/transtv.webp" group-title="TV INDONESIA" ,TRANSTV
@@ -88,9 +88,9 @@ http://46.29.169.15:4001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/arena3.jpg" group-title="SPORTS" ,ARENA PREMIUM 3
 http://46.29.169.15:4001/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="ViasatSportEast.se"  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/viasat.png" group-title="SPORTS",Viasat Sport HD
+#EXTINF:-1 tvg-id="ViasatSportEast.se"  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/viasat.png" group-title="SPORTS",VIASAT SPORTS HD
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
-#EXTINF:-1 tvg-id="ViasatSportEast.se"  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/viasathd.jpeg" group-title="SPORTS",Viasat Sport HD
+#EXTINF:-1 tvg-id="ViasatSportEast.se"  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/viasathd.jpeg" group-title="SPORTS",VIASAT SPORTS HD
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/matyhd.jpeg" group-title="SPORTS",Матч! HD
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
@@ -101,11 +101,15 @@ http://185.184.233.180:5000/udp/225.1.2.156:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/boey.png" group-title="SPORTS",Матч! Боец
 http://185.184.233.180:5000/udp/225.1.2.157:1234
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/viasathistory.png" group-title="HISTORY",Viasat History
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/viasathistory.png" group-title="HISTORY",VIASAT HISTORY
 https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/history.png" group-title="HISTORY",History HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/history.png" group-title="HISTORY",HISTORY HD
 https://sc.id-tv.kz/HistoryHD_36_37.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/history2.png" group-title="HISTORY",History 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/history2.png" group-title="HISTORY",HISTORY 2 HD
 https://sc.id-tv.kz/H2HD_36_37.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/sctv.webp group-title="TV INDONESIA" ,SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1649726163~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=3936262e6a351d4f3717b371fcd718611c592d4b6254bf13934abd841afddd72/vp9/204_stream.mpd
+
+#EXTINF:-1 group-title="TV KIDS" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/Niki-Junior-Logo.png" ,NIKI JUNIOR
+http://iptv.prosto.tv:7000/ch72/video.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="TV KIDS" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/disney.png" ,DISNEY CHANNEL
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-avc1_530000=10006.m3u8
