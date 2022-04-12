@@ -65,14 +65,16 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 http://4digital.ddns.net:11225/ts/0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="BEIN",BEIN 2 ASIA
 http://4digital.ddns.net:11222/ts/0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S1DNbRP_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN",BEIN AFC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium.png" group-title="BEIN",Bein premium 1
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306049.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n4uVBdH_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN",BEIN AFC 1
-http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jpmsHuA_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN",BEIN AFC 2
-http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FoImnfJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="BEIN",BEIN AFC 3
-http://141.95.206.174:8080/ar-s/bein-afc-3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium2.png" group-title="BEIN",Bein premium 2
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306053.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium3.png" group-title="BEIN",Bein premium 3
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306057.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinextra.webp" group-title="BEIN",Bein extra 1
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306059.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinextra2.webp" group-title="BEIN",Bein extra 2
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306061.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein1.webp" group-title="BEIN" ,BEIN SPORTS 1FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein2.png" group-title="BEIN" ,BEIN SPORTS 2FR
