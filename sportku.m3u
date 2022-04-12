@@ -91,6 +91,12 @@ http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238053.m3u8
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238054.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein4hd.png" group-title="BEIN" ,Bein 4
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238055.m3u8
+tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein5hd.png" group-title="BEIN" ,Bein 5
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238056.m3u8
+tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein6hd.png" group-title="BEIN" ,Bein 6
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238057.m3u8
+tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein7hd.png" group-title="BEIN" ,Bein 7
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238058.m3u8
 #EXTINF:-1,True premier 1
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204637.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/arena1.png" group-title="SPORTS" ,ARENA PREMIUM 1
