@@ -75,9 +75,9 @@ http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306057.m3u8
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306059.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinextra2.png" group-title="BEIN",Bein extra 2
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306061.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein1.webp" group-title="BEIN" ,BEIN SPORTS 1FR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein1fr.png" group-title="BEIN" ,BEIN SPORTS 1FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein2.png" group-title="BEIN" ,BEIN SPORTS 2FR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein2fr.png" group-title="BEIN" ,BEIN SPORTS 2FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bt1.png" group-title="BEIN" ,BTSPORTS 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
@@ -97,8 +97,24 @@ http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238056.m3u8
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238057.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein7hd.png" group-title="BEIN" ,Bein 7
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238058.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein8hd.png" group-title="BEIN" ,Bein 8
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238059.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium2.png" group-title="BEIN" ,Bein premium 2
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238060.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium3.png" group-title="BEIN" ,Bein premium 3
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238061.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein1fr.png" group-title="BEIN" ,Bein fr 1
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/267461.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein2fr.png" group-title="BEIN" ,Bein fr 2
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/267462.m3u8
 #EXTINF:-1,True premier 1
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204637.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein1eng.png" group-title="BEIN" ,Bein eng 1
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/267458.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein2eng.png" group-title="BEIN" ,Bein eng 2
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/267459.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein3eng.png" group-title="BEIN" ,Bein eng 3
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/267460.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/arena1.png" group-title="SPORTS" ,ARENA PREMIUM 1
 http://46.29.169.15:4001/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/arena2.png" group-title="SPORTS" ,ARENA PREMIUM 2
