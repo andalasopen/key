@@ -111,5 +111,7 @@ https://sc.id-tv.kz/H2HD_36_37.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/Niki-Junior-logo.png" group-title="TV KIDS" ,NIKI JUNIOR
 http://iptv.prosto.tv:7000/ch72/video.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/disnep.png" group-title="TV KIDS" ,DISNEY CHANNEL
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-avc1_530000=10006.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/disnep.png" group-title="TV KIDS" ,DISNEY CHANNEL
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:-1 group-title="TV KIDS",Nickelodeon Europe
+http://91.210.251.19:4866/udp/239.0.1.51:4000
