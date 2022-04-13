@@ -60,13 +60,20 @@ http://myott.tv/stream/MEITIIUJNS/130.m3u8
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROlPe9X5KjApMGbU0lgeCANcF-8GXH5mP9sw&usqp=CAU" group-title="SPORTS",PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-
+#EXTINF:-1 group-title="SPORTS",ESPN 3
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1 group-title="SPORTS",eurosport2
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
+#EXTINF:-1 group-title="SPORTS",ESPN 4
+http://edge6-ccast-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/207-2070268_livvo-bein-sports-gradiant-1hd-bein-sports-logo.png" group-title="BEIN",BEIN 1 ASIA
 http://4digital.ddns.net:11225/ts/0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="BEIN",BEIN 2 ASIA
 http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium.png" group-title="BEIN",Bein premium 1
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306049.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium.png" group-title="BEIN",Bein premium 1
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306048.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium2.png" group-title="BEIN",Bein premium 2
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/306053.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium3.png" group-title="BEIN",Bein premium 3
@@ -97,7 +104,7 @@ http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238056.m3u8
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238057.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein7hd.png" group-title="BEIN" ,Bein 7
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238058.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/bein8hd.png" group-title="BEIN" ,Bein 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium1.png" group-title="BEIN" ,Bein premium 1
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238059.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/beinpremium2.png" group-title="BEIN" ,Bein premium 2
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238060.m3u8
