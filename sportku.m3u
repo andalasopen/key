@@ -42,14 +42,30 @@ http://begaltvku.site/ventidos/master-8.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV.uk"  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/lftv.webp" group-title="SPORTS", LFCTV
 http://begaltvku.site/ventidos/master-3.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport.my"  tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS", ASTRO SPORT 1
+#EXTINF:-1 tvg-id="AstroSuperSport.my"  tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS ASTRO", ASTRO SPORT 1
 http://203.154.243.89:21201/nakhon
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS", ASTRO SPORT 2
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS ASTRO", ASTRO SPORT 2
 http://203.154.243.89:21202/nakhon
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="AstroSuperSport3" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="SPORTS", ASTRO SPORT 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="AstroSuperSport3" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="SPORTS ASTRO",ASTRO SPORT 3
 http://203.154.243.89:21203/nakhon
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" tvg-name="AstroSuperSport4" group-title="SPORTS", ASTRO SPORT 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" tvg-name="AstroSuperSport4" group-title="SPORTS ASTRO", ASTRO SPORT 4
 http://203.154.243.89:21204/nakhon
+#EXTINF:-1 group-title="SPORTS ASTRO",astro arena 
+http://iptv12k.com:35461/8022022301/468985/966
+#EXTINF:-1 group-title="SPORTS ASTRO",astro arena 2
+http://iptv12k.com:35461/8022022301/468985/965
+#EXTINF:-1 group-title="SPORTS",spotv
+http://iptv12k.com:35461/8022022301/468985/967
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-5-my.png" tvg-id="AstroSuperSport5.my" group-title="SPORTS ASTRO",astro supersport 5
+http://iptv12k.com:35461/8022022301/468985/968
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" tvg-id="AstroSuperSport4.my" group-title="SPORTS ASTRO",astro supersport 4
+http://iptv12k.com:35461/8022022301/468985/969
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" tvg-id="AstroSuperSport3.my" group-title="SPORTS ASTRO",astro supersport 3
+http://iptv12k.com:35461/8022022301/468985/970
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" tvg-id="AstroSuperSport2.my" group-title="SPORTS ASTRO",astro supersport 2
+http://iptv12k.com:35461/8022022301/468985/971
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" tvg-id="AstroSuperSport.my" group-title="SPORTS ASTRO",astro supersport 1
+http://iptv12k.com:35461/8022022301/468985/972
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="SPORTS" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",PPTV HD 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8
