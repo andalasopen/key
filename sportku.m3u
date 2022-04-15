@@ -42,9 +42,9 @@ http://begaltvku.site/ventidos/master-8.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV.uk"  tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/lftv.webp" group-title="SPORTS", LFCTV
 http://begaltvku.site/ventidos/master-3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS", ASTRO SPORT 1
-http://203.154.243.89:2120/nakhon
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS", ASTRO SPORT 2
+#EXTINF:-1 tvg-id="AstroSuperSport.my"  tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS", ASTRO SPORT 1
+http://203.154.243.89:21201/nakhon
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS", ASTRO SPORT 2
 http://203.154.243.89:21202/nakhon
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="AstroSuperSport3" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="SPORTS", ASTRO SPORT 3
 http://203.154.243.89:21203/nakhon
