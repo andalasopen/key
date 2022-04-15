@@ -183,3 +183,19 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
 http://playlist.urfan.web.id/dr9445/h/h37/01.m3u8
 #EXTINF:-1 group-title="MOVIES",My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1 group-title="MOVIES",FOX HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="MOVIES",FOX
+http://91.210.251.19:4866/udp/239.0.1.68:4000
+#EXTINF:-1 group-title="MOVIES",Fox Life
+http://91.210.251.19:4866/udp/239.0.1.69:4000
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://109.200.130.124:7007/play/a00b
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+#EXTINF:-1 group-title="Кино",CINEMA 
+https://sc.id-tv.kz:443/Cinema_36_37.m3u8
+#EXTINF:-1 group-title="Кино",CINEMA
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Sony Channel
+http://myott.top/stream/1VGPHYLZTH/69.m3u8
