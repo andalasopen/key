@@ -189,13 +189,13 @@ https://sc.id-tv.kz/FOX_HD_34_35.m3u8
 http://91.210.251.19:4866/udp/239.0.1.68:4000
 #EXTINF:-1 group-title="MOVIES",Fox Life
 http://91.210.251.19:4866/udp/239.0.1.69:4000
-#EXTINF:-1 group-title="Познавательные",Discovery Science
-http://109.200.130.124:7007/play/a00b
-#EXTINF:-1 group-title="Познавательные",Discovery Science
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
-#EXTINF:-1 group-title="Кино",CINEMA 
+#EXTINF:-1 group-title="MOVIES",CINEMA 
 https://sc.id-tv.kz:443/Cinema_36_37.m3u8
-#EXTINF:-1 group-title="Кино",CINEMA
+#EXTINF:-1 group-title="MOVIES",CINEMA
 https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 group-title="Кино",Sony Channel
+#EXTINF:-1 group-title="MOVIES",Sony Channel
 http://myott.top/stream/1VGPHYLZTH/69.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",BbcEarth
+http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",DW
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
