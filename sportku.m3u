@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 1
 https://pullsport.glht.top/live/sd-1-3842125.m3u8?type=habotv
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
-
+https://etslive-2-vidio-com.akamaized.net/exp=1676634837~acl=/hls-p/ingest_205_*/*~hmac=c935b23bf6d751474a74ab0c8e256f1d5ab1881f0597539364f937a36962da63/hls-p/ingest_205_480p/index.m3u8?type=habotv
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 2
 https://hls3.04lv.com/live/L13380440.m3u8?txSecret=605d240b712e175d19158142ab6af5da&txTime=63EFBA8A&_s=stream
 
@@ -12,5 +12,5 @@ https://hls.luziedu.com/livestream/ch1/playlist.m3u8?t=1676566416&a=172.69.134.1
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV4
 https://matchplay1.512v.cn/live/sd-1-3842125.flv?auth_key=1679161552-0-0-32dfd01083e2ca75dc9ffbfdb8b5172f
 
-#EXTINF:-1 tvg-id="" tvg-logo="" " ,INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1676634837~acl=/hls-p/ingest_205_*/*~hmac=c935b23bf6d751474a74ab0c8e256f1d5ab1881f0597539364f937a36962da63/hls-p/ingest_205_480p/index.m3u8?type=habotv
+#EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT 5
+https://hls3.04lv.com/live/L13391580.m3u8?txSecret=2eb7e9e23eb0089272d7c0fd2d9cb940&txTime=63F0A290&_s=stream
