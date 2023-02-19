@@ -1,16 +1,18 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 1
-https://pullsport.glht.top/live/sd-1-3842125.m3u8?type=habotv
+https://c98559eec7fd60474e0914e3fffe1b9f.livehwc3.cn/pull.52bch.com/live/3721462_lsd.m3u8?auth_info=4sFxBLRje8oxIZIw9PRlPdJ4tp6FUheQzIHo%2B54TKReI9jx5WP6DjU1vrg7Ynuy1.32
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1676634837~acl=/hls-p/ingest_205_*/*~hmac=c935b23bf6d751474a74ab0c8e256f1d5ab1881f0597539364f937a36962da63/hls-p/ingest_205_480p/index.m3u8?type=habotv
+https://pullsport.glht.top/live/sd-1-3782217.m3u8?type=habotv
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 2
-https://hls3.04lv.com/live/L13380440.m3u8?txSecret=605d240b712e175d19158142ab6af5da&txTime=63EFBA8A&_s=stream
+https://hls3.04lv.com/live/L13462270.m3u8?txSecret=980b30ba5fd1a1e00fa2e68a2296f0a2&txTime=63F32358&_s=stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 3
 https://hls.luziedu.com/livestream/ch1/playlist.m3u8?t=1676566416&a=172.69.134.170&u=27e2e282a30c400b65aa5d167e027f82&k=b8c08234e04b80aff4d
 
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV4
-https://matchplay1.512v.cn/live/sd-1-3842125.flv?auth_key=1679161552-0-0-32dfd01083e2ca75dc9ffbfdb8b5172f
+https://etslive-2-vidio-com.akamaized.net/exp=1676807546~acl=/hls-p/ingest_9305_*/*~hmac=1d74f558b24442c6ec49ea9a5a0158f8ce41a6a9eefc1069195eb6beb7e464c6/hls-p/ingest_9305_720p
 
-#EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT 5
-https://hls3.04lv.com/live/L13391580.m3u8?txSecret=2eb7e9e23eb0089272d7c0fd2d9cb940&txTime=63F0A290&_s=stream
+#EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 5
+https://sport.esportstv.vip/sport/202_302426_46373.m3u8?txSecret=68e3cc4c4919bc9def31b0d4a68648c4&txTime=63F32664
+#EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 6
+https://etslive-2-vidio-com.akamaized.net/exp=1676807546~acl=/hls-p/ingest_9305_*/*~hmac=1d74f558b24442c6ec49ea9a5a0158f8ce41a6a9eefc1069195eb6beb7e464c6/hls-p/inges
