@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 1
-https://c98559eec7fd60474e0914e3fffe1b9f.livehwc3.cn/pull.52bch.com/live/3721462_lsd.m3u8?auth_info=4sFxBLRje8oxIZIw9PRlPdJ4tp6FUheQzIHo%2B54TKReI9jx5WP6DjU1vrg7Ynuy1.32
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8?type=habotv
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
 https://pullsport.glht.top/live/sd-1-3782217.m3u8?type=habotv
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 2
