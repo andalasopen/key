@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 1
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8?type=habotv
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
-https://hls3.04lv.com/live/L14026180.m3u8?txSecret=8adcc22a3e2063b1e4b1d07d8345f9c6&txTime=64098EB8&_s=stream
+https://hls3.04lv.com/live/L14352700.m3u8?txSecret=6e3c123b2d835a15474b78bfbd212448&txTime=64156535&_s=stream
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 2
 https://hls3.04lv.com/live/L13462270.m3u8?txSecret=980b30ba5fd1a1e00fa2e68a2296f0a2&txTime=63F32358&_s=stream
 
