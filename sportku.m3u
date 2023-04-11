@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 1
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8?type=habotv
+#EXTINF:-1 tvg-id="" tvg-logo="" " , BEIN SPORT 4K
+http://iptvworld.nl:2095/mm5z86zW/qgSXYnBD/348094
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/ferisus/key/master/Image/indosiar.webp" group-title="TV INDONESIA" ,INDOSIAR
 https://hls3.04lv.com/live/L14695620.m3u8?txSecret=f7ac1b6dc1bcf92e5e49daee25033bff&txTime=64242138&_s=stream
 #EXTINF:-1 tvg-id="" tvg-logo="" " ,SPORT TV 2
